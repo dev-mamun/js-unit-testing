@@ -1,0 +1,22 @@
+{
+  "name": "js-unit-testing",
+  "version": "1.0.0",
+  "description": "Write unit tests for a javascript app. it is practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-mamun/js-unit-testing.git"
+  },
+  "author": "Abdullah al mamun <mamun1214@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dev-mamun/js-unit-testing/issues"
+  },
+  "homepage": "https://github.com/dev-mamun/js-unit-testing#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
